@@ -1,0 +1,63 @@
+h1 {
+	font-family: Courier New;
+	text-align: center;
+}
+
+.navstyle a {
+	background-color: #FFFFFF;
+	font-family: Courier New;
+	color: #6D6E70;
+}
+
+.navstyle a:hover {
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+.navstyle {
+	background-color: #FFFFFF;
+}
+
+.logo {
+	height: 30px;
+	width: 250px;
+	vertical-align: middle;
+}
+
+.mainimg {
+	border-radius: 50%;
+	height: 400px;
+	width: 400px;
+}
+
+.subtext {
+	font-family: Courier New;
+}
+
+
+.column {
+  flex: 50%;
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
+}
+
+.row {
+	display:flex;
+}
+
+.pt5{
+	padding-top: 5px;
+}
+
+
+.mt1{
+	margin-top: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
