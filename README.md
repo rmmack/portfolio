@@ -9,7 +9,7 @@ _The purpose of this project is to create a single source of information that ou
 
 ## Setup/Installation Requirements
 
-* _Click on the GitHub repository link_
+* _Click on the GitHub repository link: https://github.com/rmmack/portfolio_
 * _Open all files within repository_
 * _View in preferred browser, Google Chrome and Safari recommended_
 
