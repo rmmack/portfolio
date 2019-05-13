@@ -5,7 +5,7 @@
 
 ## Description
 
-_The purpose of this project is to create a single source of information that outlines all programming projects.  This project includes some of my hobbies and interests to give the viewer a digital understanding of my myself beyond the keyboard.  It will forever be a work in progress, such is life._
+_The purpose of this project is to create a single source of information that outlines all programming projects living on GitHub.  This project includes some of my hobbies and interests to give the viewer a digital understanding of myself beyond the keyboard.  It will forever be a work in progress, such is life._
 
 ## Setup/Installation Requirements
 
